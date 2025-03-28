@@ -22,6 +22,9 @@ public class LinearSearch
         {
         arr[i] = scanner.nextInt();
         }
+        Arrays.sort(arr);
+        
+        System.out.println("Sorted array: " + Arrays.toString(arr));
         System.out.print("Enter the element to search for: ");
         int target = scanner.nextInt();       
         int result = linearSearch(arr, target);
