@@ -1,4 +1,5 @@
 import java.util.Scanner;
+import java.util.Arrays;
 public class LinearSearch 
 {
     public static int linearSearch(int[] arr, int target) 
