@@ -1,4 +1,4 @@
-import java.util.Scanner;
+oimport java.util.Scanner;
 
 public class BinarySearch 
 {
@@ -36,7 +36,7 @@ public class BinarySearch
       
                int[] arr = new int[n];
         
-               System.out.println("Enter " + n + " elements of the array :");
+               System.out.println("Enter " + n + " elements of the array (sorted in ascenting order):");
                for (int i = 0; i < n; i++) 
                {
                arr[i] = scanner.nextInt();
@@ -60,4 +60,3 @@ public class BinarySearch
                scanner.close();
                }
                }
-
