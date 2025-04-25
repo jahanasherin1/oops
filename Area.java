@@ -40,7 +40,7 @@ class ShapeArea
             System.out.print("Enter length: ");
             double length = sc.nextDouble();
             System.out.print("Enter width: ");
-            double +--...00000000002width = sc.nextDouble();
+            double width = sc.nextDouble();
             System.out.println("Area: " + shape.area(length, width));
             }
          else if (choice == 3) 
