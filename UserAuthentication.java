@@ -37,3 +37,18 @@ class UserAuthentication {
     }
 }
 
+
+
+
+
+(base) ksb@ksb-H410M-H-V2:~/jahana/oops$ javac UserAuthentication.java
+(base) ksb@ksb-H410M-H-V2:~/jahana/oops$ java UserAuthentication 
+Enter username: jahana
+Enter password: jahana@123
+Authentication successful!
+
+
+Enter username: jahana
+Enter password: jahana123
+Invalid username or password!
+  
