@@ -64,3 +64,38 @@ class Employee
           }
           }
           }
+
+
+
+(base) ksb@ksb-H410M-H-V2:~/jahana/oops$ javac Employe.java
+(base) ksb@ksb-H410M-H-V2:~/jahana/oops$ java Employe
+Enter the number of employees:
+2
+Enter Employee No:
+1
+Enter Employee Name:
+jahana
+Enter Employee Salary:
+10000
+Enter Employee No:
+2
+Enter Employee Name:
+frina
+Enter Employee Salary:
+12000
+
+ Employee Details:
+
+Employee No:1
+Employee Name:jahana
+Employee Salary:10000
+
+Employee No:2
+Employee Name:frina
+Employee Salary:12000
+Enter the employee number to be searched:
+2
+
+Employee No:2
+Employee Name:frina
+Employee Salary:12000
